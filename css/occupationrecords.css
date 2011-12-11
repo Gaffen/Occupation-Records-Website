@@ -244,11 +244,17 @@ header {
 }
 
 #nav {
-    height: 94px;
-    background-image: url(../images/DirtyRock.jpg);
-    background-position: top;
-    background-repeat: repeat-x;
+    height: 111px;
     width: 100%;
+    margin-top: 37px;
+}
+
+#profits {
+    margin: 7px;
+}
+
+.floatright {
+    float: right;
 }
 
 #content {
