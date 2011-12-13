@@ -50,7 +50,14 @@ html {
     background-image: url(../img/aboutbackground.jpg);
     background-position: top;
     background-repeat: no-repeat;
-    background-color: #9f261e;
+    background-color: #648e2f;
+}
+
+#albums {
+    background-image: url(../img/albumbackground.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-color: #144742;
 }
 
 body { margin: 0; font-size: 13px; line-height: 1.231; }
@@ -235,6 +242,10 @@ h1 {
     font-size: 20px;
 }
 
+.centered {
+    text-align: center;
+}
+
 a:visited {
 }
 
@@ -255,6 +266,7 @@ header {
 
 #changes {
     height: 419px;
+}
 
 #nav {
     height: 111px;
@@ -292,12 +304,42 @@ header {
     right: 0px;
 }
 
+#bigbox {
+    background-image: url("../img/bigbox.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 1007px;
+    height: 383px;
+    padding: 20px 30px 20px 30px;
+}
+
 #main {
     width: 548px;
     height: 264px;
     background-image: url(../img/Maincont.png);
     padding: 5px 40px 5px 40px;
     margin-top: 47px;
+}
+
+#aboutmain {
+    width: 600px;
+    float: left;
+    background-image: url(../img/novleft.png);
+    background-position: center right;
+    background-repeat: repeat-y;
+    padding-right: 20px;
+    margin-top: 20px;
+}
+
+#aboutmain p {
+    margin-top: 0px;
+}
+
+#aboutside {
+    width: 367px;
+    float: left;
+    margin-top: 20px;
+    padding-left: 20px;
 }
 
 /* ==|== media queries ======================================================
