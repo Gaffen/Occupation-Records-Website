@@ -46,9 +46,16 @@ html {
     background-color: #9f261e;
 }
 
+#about {
+    background-image: url(../img/aboutbackground.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-color: #9f261e;
+}
+
 body { margin: 0; font-size: 13px; line-height: 1.231; }
 
-body, button, input, select, textarea { font-family: sans-serif; color: #000000; }
+body, button, input, select, textarea { font-family: serif; color: #000000; }
 
 ::-moz-selection { background: #890000; color: #fff; text-shadow: none; }
 ::selection { background: #890000; color: #fff; text-shadow: none; }

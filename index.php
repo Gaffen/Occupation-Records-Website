@@ -34,7 +34,9 @@ if(!isset($_GET['id']) || $id=='home')  {
     <div id="wrapper">
         <div id="content">
             <div id="center">
+                <div id="changes">
                 <?php include_once("php/$id.php");?>
+                </div>
                 <div id="nav">
                     <?php include_once("php/nav.php");?> 
                 </div>
