@@ -253,6 +253,9 @@ header {
     margin: auto;
 }
 
+#changes {
+    height: 419px;
+
 #nav {
     height: 111px;
     width: 100%;
