@@ -37,11 +37,14 @@ html {
     -ms-text-size-adjust: 100%;
     width: 100%;
     height: 100%;
+    }
+
+#home {
     background-image: url(../img/homebackground.jpg);
     background-position: top;
     background-repeat: no-repeat;
     background-color: #9f261e;
-    }
+}
 
 body { margin: 0; font-size: 13px; line-height: 1.231; }
 
