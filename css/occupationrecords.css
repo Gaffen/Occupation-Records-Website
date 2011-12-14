@@ -313,6 +313,15 @@ header {
     padding: 20px 30px 20px 30px;
 }
 
+#lazybox {
+    background-image: url("../img/lazybox.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 1007px;
+    height: 383px;
+    padding: 20px 30px 20px 30px;
+}
+
 #main {
     width: 548px;
     height: 264px;

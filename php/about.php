@@ -8,5 +8,12 @@
 
 <p>The collective behind Occupation Records include music industry professionals, students, and revolutionaries. The label is the first to come out of the movement. All power to the 99%</p></div>
 <div id="aboutside"> 
-    <div class="centered"><img src="img/news.png" /></div>liwerlvuygwvekurxygf</div>
+    <div class="centered"><img src="img/news.png" /></div>
+    <p>"Radiohead's Thom Yorke and Massive Attack Play Occupy London Gig" <span class="floatright">- <img src="img/nmelogo.png" /></span></p>
+    
+    <p>"Thom Yorke, Massive Attack and U.N.C.L.E. Play Occupy London Party" <span class="floatright">- <img src="img/rollingstonelogo.png" /></span></p>
+    
+    <p>"Music World puts on "Thank You" Gig in Solidarity with Occupy London" <span class="floatright">- <img src="img/guardianlogo.png" /></span></p>
+    
+    <p>"You've Seen the St Paul's Camp, Now Buy the Soundtrack on Occupation Records" <span class="floatright">- <img src="img/standardlogo.png" /></span></p></div>
 </div>

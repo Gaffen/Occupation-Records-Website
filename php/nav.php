@@ -1,1 +1,1 @@
-<a href="../occrec/index.php?id=about"><img src="img/aboutus.png" /></a><a href="../occrec/index.php?id=albums"><img src="img/albums.png" /></a><img src="img/merch.png" /><img src="img/contact.png" /><img src="img/radio.png" /><img src="img/occlon.png" />
+<a href="../occrec/index.php?id=about"><img src="img/aboutus.png" /></a><a href="../occrec/index.php?id=albums"><img src="img/albums.png" /></a><img src="img/merch.png" /><img src="img/contact.png" /><img src="img/radio.png" /><a href="http://occupylondon.org.uk/"><img src="img/occlon.png" /></a>
