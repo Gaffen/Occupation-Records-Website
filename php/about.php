@@ -1,5 +1,5 @@
 <div id="bigbox">
-<div class="centered"><a href="../occrec/index.php?id=home"><img src="img/occrec.png" /></a></div>
+<div class="centered"><a href="../index.php?id=home"><img src="img/occrec.png" /></a></div>
 <div id="aboutmain"><p>Launched from the offices of the occupied UBS offices at Sun Street, London, Occupation Records is run by an independent collective of occupiers, for occupiers, in support of Occupy London, Occupy Britain, and the Occupy movement worldwide.</p>
 
 <p>The label offers live recordings from the occupations as part of the Occupy Live! series, benefit albums, and releases albums by artists within the Occupy movement. In the spirit of the movement, all releases are offered on a pay-what-you-can basis, and are DMR free.</p>
