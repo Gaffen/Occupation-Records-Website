@@ -61,7 +61,7 @@ if(!isset($_GET['id']) || $id=='home')  {
     <!-- end scripts -->
 
     <script>
-    var _gaq=[['_setAccount','UA-9918791-5'],['_trackPageview'],['_trackPageLoadTime']];
+    var _gaq=[['_setAccount',''],['_trackPageview'],['_trackPageLoadTime']];
     (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
     g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
     s.parentNode.insertBefore(g,s)}(document,'script'));
